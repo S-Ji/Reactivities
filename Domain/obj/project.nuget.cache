@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7eTubi5LRsKUYoPfbrAvl4io574tY1YbNkZwiDAOU0brSBXMH+IYEDyMUe/cCl9deNgwKDVB2kgey3VgjKfWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP\\OneDrive\\Desktop\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
