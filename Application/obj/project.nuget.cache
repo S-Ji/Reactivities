@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8F7+Hv1A3bjGEH6Yny9YfglXwrrKOwB6aLy2ZpnMoY8d1Q0niYYlOngA5379XR0DtKDHwYeQLuAQ1tY8DzEGGA==",
+  "dgSpecHash": "ujHvn0+va3TdIIAEVapi2dAAQ45yuACgpbMPVHESKxFsEo8NLxhIYCx9Wpsttnbu5YkBBKQsMOds2SAF2E3PQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\TEMP\\OneDrive\\Desktop\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.4\\microsoft.data.sqlite.core.3.1.4.nupkg.sha512",

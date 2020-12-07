@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MQf1kmkjK6SkfkM3XSdbY6oIV4+ojprjMcj8WIRFWGBu4ZhLzzGFKBUjyo75PFomzWai/u8/9Gd6ex8UwK81sQ==",
+  "dgSpecHash": "0zZmrD3NIhnvAwEOP6jxRddHrpAPlUDENcENjoxD3jPZn8Wg2cqhnhb3d/pjJNOxzhxengTBcPLEKTDOBrYq3Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\TEMP\\OneDrive\\Desktop\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
