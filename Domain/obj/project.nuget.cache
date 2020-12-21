@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y7eTubi5LRsKUYoPfbrAvl4io574tY1YbNkZwiDAOU0brSBXMH+IYEDyMUe/cCl9deNgwKDVB2kgey3VgjKfWQ==",
+  "dgSpecHash": "9TeLEbIkjdTTde4DAxc0E7vH6ru+gcSw0q1FL2CxpB8/W7JN33VVRjB+/VVGtw+I+DbaOXy5Sk1MVwmzcV4DYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\TEMP\\OneDrive\\Desktop\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\TEMP\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }
